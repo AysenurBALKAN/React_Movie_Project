@@ -1,0 +1,88 @@
+{
+  "movies": [
+    {
+      "name": "Inception",
+      "rating": "8",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xn0Kcg4e6p0mLxVS3nAWhNmW2Ni.jpg",
+      "overview": "Leonardo DiCaprio bu yapımda, çok yetenekli bir hırsız olan Dom Cobb ile karşımızda. Uzmanlık alanı, zihnin en karanlık ve savunmasız olduğu rüya anında, bilinçaltının derinliklerindeki değerli sırları çekip çıkarmak ve onları çalmaktır. Cobb'un insanlarda nadiren görülebilecek bu yeteneği onu kurumsal casusluğun tehlikeli yeni dünyasında aranan bir oyuncu yapmıştır. Aynı zamanda bu durum onu uluslararası bir kaçak yapmış ve sevdiği her şeye malolmuştur. Cobb'a içinde bulunduğu durumdan kurtulmasını sağlayacak bir fırsat sunulur. Ona hayatını geri verebilecek son bir iş; tabii eğer imkansız 'Başlangıç'ı tamamlayabilirse.",
+      "id": 15
+    },
+    {
+      "name": "Heat",
+      "rating": "5",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/wsfL3kmdCbf34r2lykibFjavqVT.jpg",
+      "overview": "Reynolds plays an ex-soldier-of-fortunish character in Vegas, taking \"Chaperone\" jobs, fighting with the mob, and trying to get enough money together to move to Venice, Italy.",
+      "id": 16
+    },
+    {
+      "name": "Karayip Korsanları: Siyah İnci'nin Laneti",
+      "rating": "8",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hGIDdwPMM8tusFMiobZiJ942O4c.jpg",
+      "overview": "Hafif üçkağıtçı fakat bir o kadar da sevimli Kaptan Jack Sparrow’un (Johnny Depp) korsanlık yaşamı, düşmanı kurnaz Kaptan Barbossa’nın (Geoffrey Rush), gemisi Siyah İnci’yi çalmasıyla altüst olur. Bu da yetmezmiş gibi Kaptan Barbossa, Port Royal kasabasına saldırır ve belediye başkanının güzeller güzeli kızı Elizabeth’i (Keira Knightley) kaçırır. Kızı kurtarmak ve Siyah İnci’yi yeniden ele geçirmek amacıyla Elizabeth’in çocukluk arkadaşı Will (Orlando Bloom) ve Jack güçlerini birleştirirler. Will’in bilmediği ise lanetli bir hazinenin Barbossa’nın kaderini nasıl değiştirdiği ve onu ve mürettebatını nasıl sonsuza kadar ölümsüz olarak yaşamaya mahkum ettiğidir.",
+      "id": 17
+    },
+    {
+      "name": "Karayip Korsanları: Ölü Adam'ın Sandığı",
+      "rating": "8",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/kbHReT65bMcy0jyz7tMUi9NMuOd.jpg",
+      "overview": "Kaptan Jack Sparrrow’un, Uçan Hollandalı’nın kaptanı Davy Jones’a kan borcu olduğu konusunda kendisine bir hatırlatma yapılır. Davy Jones, cehennemden çıkma mürettebatı ile bir hayalet geminin kaptanıdır. Jack, borcunu temizlemezse, Davy’nin kölesi olarak kalmaya mahkum olacaktır. Jack Sparrow’un içinden çıkamayacağı durum pek görülmediği üzere illa ki bir yol bulacaktır. Ölü Adamın Sandığı’na sahip olan kişinin Davy Jones’un da kontrol edebileceğini fark edince durum karmaşıklaşacaktır.",
+      "id": 18
+    },
+    {
+      "name": "Karayip Korsanları: Dünyanın Sonu",
+      "rating": "8",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/w5EB5nFC3V6ceCEp1tG9nyCiDqW.jpg",
+      "overview": "Kaptan Jack Sparrow’u, Davy Jones’un sandığındaki akıllara zarar tuzaktan kurtarıp özgürlüğüne kavuşturmaya kararlı olan Will Turner ile Elizabeth Swann, çaresizlik içinde Kaptan Barbossa ile ittifak yaparlar. Doğu Hindistan Ticaret Şirketi’nin kontrolü altında olan Davy Jones’un ürkütücü görünümlü hayalet gemisi The Flying Dutchman, dünyanın bütün denizlerini kasıp kavurmaktadır. İhanet, vefasızlık ve dönekliğin kol gezdiği vahşi denizlerde yelken açan korsanlarımızın yolu egzotik Singapur’a düşer.",
+      "id": 19
+    },
+    {
+      "name": "Karayip Korsanları: Salazar'ın İntikamı",
+      "rating": "8",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/49dEadPwXooCcGx0lc1i4pnMuoD.jpg",
+      "overview": "Çılgın maceraları ile bilinen, kaptanları şahı ama bir o kadar talihsiz Jack Sparrow, yelken açtığı sularda yaklaşan kötü rüzgarları hisseder. Korkunç Kaptan Salazar'ın yönetimindeki ölümcül hayalet korsanlar, denizdeki tüm korsanları öldürerek Şeytan Üçgeni’nden kaçmayı başarmıştır; hayatta kalan tek korsan kaptan ise Jack'tir. Jack, Salazar'ın gazabından ve intikamından kurtulmak için Poseidon Asası’nın peşine düşer. Bu efsanevi asayı bulmak içinse güzel ve zeki gökbilimci Carina Smyth ve Kraliyet Donanması'ndan dik başlı, genç bir denizci olan Henry ile zorlu bir anlaşma yapar. Küçük ve külüstür gemisi Dying Gull’un dümenindeki Jack Sparrow, hem kötü kaderini tersine çevirmenin hem de şimdiye dek karşına çıkan en dişli ve korkunç düşmandan kurtulmanın yollarını arayacaktır.",
+      "id": 21
+    },
+    {
+      "name": "Yıldızlararası ",
+      "rating": "8",
+      "overview": "Teknik bilgisi ve becerisi yüksek olan Cooper, geniş mısır tarlalarında çiftçilik yaparak geçinmektedir; amacı iki çocuğuna güvenli bir hayat sunmaktır. Onlarla yaşayan Büyükbaba Donald çocuklara göz kulak olurken, henüz 10 yaşındaki kızı Murph şaşırtıcı bir zekaya sahiptir. Geçmişte bıraktığı biliminsanı kariyerini özleyen Cooper'un karşısına bir gün beklenmedik bir teklif çıkar ve ailesinin, dahası insanlığın güvenliği için zorlu bir karar alması gerekir...",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xbiycuc84TrieEWwkkuH2hoEa9S.jpg",
+      "id": 22
+    },
+    {
+      "name": "Açlık Oyunları",
+      "rating": "9",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/tSYjmaqkmlhRm6CJuutxcetalto.jpg",
+      "overview": "Yakın bir gelecekte Kuzey Amerika kuraklık ve arkasından gelen yangın ve kıtlıklarla zayıflayarak çökmüş; yerini bir başkent ve 12 eyaletten oluşan Panem adında bir ülkeye bırakmıştır. Bu yeni ülkede her sene eyaletlerden kura ile seçilen ikişer gencin katıldığı \"Açlık Oyunları\" düzenlenmektedir. Kısmen eğlence amaçlı, kısmen de halka göz dağı vermeyi hedefleyen bu oyunlar, ayrıca tüm Panem ülkesinde televizyonlardan da izlenmektedir. 24 farklı 'yarışmacı' bütün televizyon seyircilerinin gözleri üzerindeyken, rakiplerini eleme ve hayatta kalma mücadelesi vermektedirler.",
+      "id": 23
+    },
+    {
+      "name": "Açlık Oyunları: Ateşi Yakalamak",
+      "rating": "9",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/sQhZqVWIbI2W4YluKEpd729z3Vb.jpg",
+      "overview": "Ateşi Yakalamak, Katniss Everdeen'in diğer haraç Peete Mellark'la 74. Açlık Oyunları'nı kazandıktan sonra sağ salim evine geri dönüşünden başlıyor. Kazanmak ikilinin ailelerini ve arkadaşlarını yeniden bırakarak mıntıkalarda \"Kazananların Tur\"”na çıkmaları gerektiği anlamına geliyor. Yolculukları esnasında Katniss bir ayaklanmaya hazırlanıldığını hissediyor. Ama Başkan Snow, Panem'i sonsuza dek değiştirebilecek 75. Açlık Oyunlarına hazırlanırken, Capitol kontrol altında gibi görünüyor.",
+      "id": 24
+    },
+    {
+      "name": "Açlık Oyunları: Alaycı Kuş Bölüm 1",
+      "rating": "9",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/7aTwGE1JyUIuXIoxVJYf5pVzX2A.jpg",
+      "overview": "Katniss Everdeen, oyunları sonsuza dek tarihe gömdükten sonra 13. Bölge'ye çekilmiştir. Başkan Coin'in yönetici vasıfları ve güvendiği arkadaşlarının tavsiyeleriyle Peeta Mellark'ı kurtarabilmek için büyük bir savaşa girişir. Sadece Peeta değil, bütün bir ülke ona güvenmektedir.",
+      "id": 25
+    },
+    {
+      "name": "Açlık Oyunları: Alaycı Kuş Bölüm 2",
+      "rating": "9",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9OdipcYw8GQ3vBpWW1nRkdMXumk.jpg",
+      "overview": "Peeta Malerk'in Capitol'ün eline geçmesiyle çılgına dönen Katniss, artık tüm kozlarını oynamak durumundadır. Katniss'in, temsil ettiği Alaycı Kuş harekete geçmeli, son kez ve sonsuza dek Capitol'ün yönetimini devirmek için tüm yandaş mıntıkılarla beraber hareket ederek özgürlüklerine kavuşmalıdırlar. Aksi halde hepsi ölecektir. Her türlü riski göze alan Alaycı Kuş, hem Peeta'yı kurtarıp hem de istediği zaferi elde edebilecek mi?",
+      "id": 26
+    },
+    {
+      "name": "Avatar",
+      "rating": "8",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+      "overview": "Bir hırsızlık olayında ağabeyi ölen yarı felçli Jake Sully, Pandora adındaki uzak bir gezegende görevinin başına geçmeye karar verir. Bu yerde Na’vi adında giderek tükenmekte olan bir halk yaşamaktadır. Askeri bir şirket, söz konusu yeri ve oradaki kaynakları mercek altına almak üzere Avatar adında bir program oluşturmuştur. Bu program insanları kısmen insan kısmen de Na’vi haline büründürerek misyon amaçlı Pandora’ya göndermektedir. Bu sisteme gönüllü dahil olan Botanist Dr. Grace Augustine ve Jake Sully için başka bir yaşam var olacaktır. Sully, Pandora’ya geçtiği anda felçli bedeni değişime uğrayarak işlevsel hale gelir. Bu sırada Na’vi halkından Prenses Neytiri ile karşı karşıya gelen Jake, ansızın bir farkındalık yaşar ve bir araştırma misyonu ile gönderildiği bu gezegeni, kendi dünyalısından korumaya karar verir.",
+      "id": 27
+    }
+  ]
+}
